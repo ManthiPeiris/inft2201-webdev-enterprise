@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"MailTest::testCreateMail":3.434,"MailTest::testGetMailById":0.019,"MailTest::testListMail":0.172,"MailTest::testUpdateMail":0.173,"MailTest::testDeleteMail":0.165}}
